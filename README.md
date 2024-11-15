@@ -1,16 +1,13 @@
-# Projeto Django MVC com Mongo
-
-git commit -m "Primeiro commit: estrutura inicial do projeto Flask"
-git branch -M main
+# Teste de projeto Django MVC com Mongo
 
 # Histórico de passos e comandos de setup
 
-iniciei e ativei venv
-pip install django==3.1.12 sqlparse==0.2.4
-pip install djongo, django-environ
-sudo django-admin startproject config .
-python manage.py migrate
-python manage.py runserver
+- iniciei e ativei venv
+- pip install django==3.1.12 sqlparse==0.2.4
+- pip install djongo, django-environ
+- sudo django-admin startproject config .
+- python manage.py migrate
+- python manage.py runserver
 
 ### Comando Especial
 
